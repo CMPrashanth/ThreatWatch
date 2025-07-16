@@ -1,0 +1,132 @@
+{
+    "room 2": {
+        "video_source": 0,
+        "zones": [
+            {
+                "name": "room1_lap",
+                "access_level": "monitored",
+                "points": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        639,
+                        0
+                    ],
+                    [
+                        639,
+                        479
+                    ],
+                    [
+                        0,
+                        479
+                    ]
+                ]
+            }
+        ]
+    },
+    "vi_highJ": {
+        "video_source": "G:\\Downloads\\cognizant\\Mock Hackathon\\1054031558-preview.mp4",
+        "original_height": 316,
+        "original_width": 600,
+        "zones": [
+            {
+                "name": "outer door",
+                "access_level": "restricted",
+                "points": [
+                    [
+                        12,
+                        11
+                    ],
+                    [
+                        278,
+                        15
+                    ],
+                    [
+                        293,
+                        302
+                    ],
+                    [
+                        14,
+                        307
+                    ],
+                    [
+                        13,
+                        15
+                    ]
+                ]
+            }
+        ]
+    },
+    "intrusion": {
+        "video_source": "G:\\Downloads\\cognizant\\Mock Hackathon\\1intrusion_video.mp4",
+        "original_height": 720,
+        "original_width": 1280,
+        "zones": [
+            {
+                "name": "doorway",
+                "access_level": "restricted",
+                "points": [
+                    [
+                        424,
+                        144
+                    ],
+                    [
+                        620,
+                        144
+                    ],
+                    [
+                        621,
+                        549
+                    ],
+                    [
+                        413,
+                        497
+                    ],
+                    [
+                        425,
+                        133
+                    ],
+                    [
+                        425,
+                        133
+                    ]
+                ]
+            }
+        ]
+    },
+    "bank_rob": {
+        "video_source": "G:\\Downloads\\cognizant\\Mock Hackathon\\131841292-bank-robbery-progress-cctv-sec.mp4",
+        "original_height": 540,
+        "original_width": 960,
+        "zones": [
+            {
+                "name": "bank_rob",
+                "access_level": "critical",
+                "points": [
+                    [
+                        27,
+                        24
+                    ],
+                    [
+                        399,
+                        33
+                    ],
+                    [
+                        432,
+                        476
+                    ],
+                    [
+                        27,
+                        480
+                    ],
+                    [
+                        18,
+                        24
+                    ]
+                ]
+            }
+        ]
+    }
+}
