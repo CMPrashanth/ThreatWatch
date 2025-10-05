@@ -1,11 +1,5 @@
 # ThreatWatch AI Security Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.2-purple?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-
 ThreatWatch is a full-stack, AI-powered security monitoring application designed for real-time threat detection and analysis. It leverages computer vision to analyze video streams, identify potential threats, track subjects, and provide a comprehensive suite of tools for monitoring, incident management, and reporting.
 
 ## Key Features
